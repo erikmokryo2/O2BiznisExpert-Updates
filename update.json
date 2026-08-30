@@ -1,7 +1,7 @@
 {
-  "Version": "0.8.27",
-  "DownloadUrl": "https://github.com/erikmokryo2/O2BiznisExpert-Updates/releases/download/v0.8.27/O2Biznis_0.8.27_Update.zip",
-  "Sha256": "3f2871c9fbc68a4d42df31dc415ac8eb89550392e38d63eab1be25621cfa0eef",
-  "Notes": "O2 Biznis Expert 0.8.27 Beta",
+  "Version": "0.8.28",
+  "DownloadUrl": "https://github.com/erikmokryo2/O2BiznisExpert-Updates/releases/download/v0.8.28/O2Biznis_0.8.28_Update.zip",
+  "Sha256": "c33552febc8c42ec7655e5f866f53fd3fe4363b648810d50f7ca83e58297d2bf",
+  "Notes": "O2 Biznis Expert 0.8.28 Beta",
   "Mandatory": false
 }
