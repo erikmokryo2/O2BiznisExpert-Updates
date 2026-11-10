@@ -1,7 +1,7 @@
 {
-  "Version": "1.17",
-  "DownloadUrl": "https://github.com/erikmokryo2/O2BiznisExpert-Updates/releases/download/v.1.17/O2BiznisExpertKalkulacka.zip",
-  "Sha256": "2403c4bf4f1b1eabebc3ebc9a5cac582f7a2a67b1268ad8ba981f0be602314e0",
+  "Version": "1.18",
+  "DownloadUrl": "https://github.com/erikmokryo2/O2BiznisExpert-Updates/releases/download/v.1.18/O2BiznisExpertKalkulacka.zip",
+  "Sha256": "2618b7555a275a4ff8ef9ac5e15dd23cd6473ec86f497594267fcec214b9e464",
   "Notes": "O2 Biznis Expert Kalkulačka",
   "Mandatory": false
 }
